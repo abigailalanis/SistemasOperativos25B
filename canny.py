@@ -1,3 +1,4 @@
+##abigail alanis
 import cv2
 
 img = cv2.imread('cartas.jpeg',0)
